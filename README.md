@@ -10,7 +10,7 @@ NOTE: Data has been filtered by droping all null values and filtering the data s
   * [Total number of Vine Reviews were 90.](https://colab.research.google.com/github/StephenDini/Amazon_Vine_Analysis/blob/main/Vine_Review_Analysis.ipynb#scrollTo=CQscKXPTwoEP&line=2&uniqifier=1)
   * [Total number of Non-Vine reviews were 37385.][https://colab.research.google.com/github/StephenDini/Amazon_Vine_Analysis/blob/main/Vine_Review_Analysis.ipynb#scrollTo=wDJvgG2ayLSj&line=2&uniqifier=1]
 * How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?
-  * [Total number of 5 star reviews are 14670.](https://colab.research.google.com/github/StephenDini/Amazon_Vine_Analysis/blob/main/Vine_Review_Analysis.ipynb#scrollTo=wDJvgG2ayLSj&line=3&uniqifier=1)
+  * [Total number of 5 star reviews are 14670.](https://colab.research.google.com/github/StephenDini/Amazon_Vine_Analysis/blob/main/Vine_Review_Analysis.ipynb#scrollTo=XSXrLOQ3v07R&line=3&uniqifier=1)
   * [Total number of 5 star Vine reviews are 44](https://colab.research.google.com/github/StephenDini/Amazon_Vine_Analysis/blob/main/Vine_Review_Analysis.ipynb#scrollTo=7biC5s6Qxk5Z&line=3&uniqifier=1)
   * [Total number of 5 star Non-Vin reviews are 14626.](https://colab.research.google.com/github/StephenDini/Amazon_Vine_Analysis/blob/main/Vine_Review_Analysis.ipynb#scrollTo=opiPh6h8yf4Q&line=3&uniqifier=1)
 * What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars? 
