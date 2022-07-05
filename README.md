@@ -19,6 +19,6 @@ NOTE: Data has been filtered by droping all null values and filtering the data s
   
 ## Summary
 
-When looking at the statistics its hard to say if there is a bias. We are indeed showing that the 90 Vine reviews, of which 44 were 5 star raitings, percentages were indeed higher than that of non payed reviews. With such a small sample size it may not be best to draw conclusions just yet. The 10 percent different does streangth the assumption that paid reviews contain bias.
+When looking at the statistics its hard to say if there is a bias. We are indeed showing that the 90 Vine reviews, of which 44 were 5 star raitings, percentages were indeed higher than that of non payed reviews. The 10 percent different does lend credence to the assumption that paid reviews contain bias but with such a small sample size it may not be best to draw conclusions just yet.
 
 More data is needed or expand the filter to include 4 and 5 stars. 
